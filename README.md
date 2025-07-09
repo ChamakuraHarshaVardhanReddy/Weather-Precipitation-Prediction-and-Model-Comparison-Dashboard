@@ -92,4 +92,32 @@ The dashboard provides an intuitive interface with:
   - `Decision Tree Confusion Matrix`  
   - `SVM Confusion Matrix`
 
+## 🚀 Future Enhancements
+
+- Integrate **machine learning models** for non-linear prediction  
+- Add **real-time weather API feeds** to update visuals dynamically  
+- Deploy the dashboard on **Tableau Public** for wider accessibility  
+- Create an interactive **policy impact simulation tool** to evaluate climate decisions  
+- Incorporate **geospatial layers** to show regional climate risks  
+- Add **mobile-friendly dashboard views** using Tableau's device layout editor  
+- Use **historical forecasting** models (e.g., time series) to predict future agricultural yields  
+- Provide **exportable policy reports** with automated insights
+
+---
+
+## 🙏 Acknowledgements
+
+- Food and Agriculture Organization (FAO)  
+- Intergovernmental Panel on Climate Change (IPCC)  
+- Tableau for its robust visualization and data storytelling capabilities  
+
+---
+
+## 📬 Contact
+
+Created by: **Harshavardhan Reddy Chamakura**  
+📧 Email: chamakharsha10@gmail.com  
+
+
+
 
